@@ -1,22 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Isamara+Pereira+André;Tenho+20+anos;Eu+sou+do+Brasil,+MG;Estudante+de+Desenvolvimento+de+Software+na+Cubos+Academy;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+<h2 color="white"  center="true" vCenter="true" width="9000">
+  Olá, seja Bem-Vindo(a)!
+  </h2>
+  <h3 color="white"  center="true" vCenter="true" width="9000">
+  Meu nome é Isamara, tenho 20 anos sou de Minas Gerais atualmente sou estudante de Desenvolvimento de Software na Cubos Academy!
+  </h3>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isamarapereirx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Isamara github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamarapereirx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isamarapereirx&theme=gotham)
+  ## Minhas Redes Sociais :envelope::
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isamarapereirx/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isamara-pereira-andr%C3%A9-523a3a209/)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isamarapereirx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/isamarapereirx/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
   
 
 ### Main skills:
@@ -40,11 +36,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isamarapereirx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/isamarapereirx/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isamarapereirx}/count.svg" /></p> 
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
